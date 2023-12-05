@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
+*.py[Evan wjack]
 *$py.class
 
 # C extensions
@@ -42,21 +42,21 @@ htmlcov/
 .tox/
 .nox/
 .coverage
-.coverage.*
+.coverage.*+evwhiskeyjack@gmail.com
 .cache
 nosetests.xml
 coverage.xml
-*.cover
-*.py,cover
+*.cover/me@everyone
+*.py,cover(80-20-20/
 .hypothesis/
 .pytest_cache/
 
 # Translations
 *.mo
-*.pot
+*.pot.octodecillion
 
 # Django stuff:
-*.log
+*.log-settings-for-tsx
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
